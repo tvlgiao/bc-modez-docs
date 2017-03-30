@@ -1,6 +1,8 @@
 # User Guide - BigCommerce Theme Modez
 
-Theme Version: 0.1.4 (2017-03-08)
+Theme Version: 1.0.0 (2017-03-29)
+
+__This user guide can be read online at <https://tvlgiao.github.io/bc-modez-docs/>__
 
 Theme designed and developed by Codespot Software JSC - <https://www.emthemes.com/>.
 
